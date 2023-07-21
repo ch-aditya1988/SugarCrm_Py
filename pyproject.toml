@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "sugarcrm-python"
+name = "sugarcrm-python-wrapper"
 version = "0.1.9"
 description = "API wrapper for SugarCRM written in Python"
 authors = ["Miguel Ferrer <ingferrermiguel@gmail.com>"]
